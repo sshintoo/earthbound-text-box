@@ -15,18 +15,18 @@ This small project uses `border-image` to stretch the images to fit any size div
 <div style="width:250px; margin:0px auto; margin-bottom:20px;" align="center">
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Plain</p>
-<img style="image-rendering:pixelated;" src="source/assets/ebBoxPl.png" />
+<img src="source/assets/ebBoxPl.png" />
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Mint</p>
-<img style="image-rendering:pixelated;" src="source/assets/ebBoxM.png" />
+<img src="source/assets/ebBoxM.png" />
 
-<p style="font-size: 20px; margin-bottom:0px; margin:5px">Strawberry</p><img style="image-rendering:pixelated;" src="source/assets/ebBoxS.png" />
+<p style="font-size: 20px; margin-bottom:0px; margin:5px">Strawberry</p><img src="source/assets/ebBoxS.png" />
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Banana</p>
-<img style="image-rendering:pixelated;" src="source/assets/ebBoxB.png" />
+<img src="source/assets/ebBoxB.png" />
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Peanut</p>
-<img style="image-rendering:pixelated;" src="source/assets/ebBoxPe.png" />
+<img src="source/assets/ebBoxPe.png" />
 
 </div>
 
