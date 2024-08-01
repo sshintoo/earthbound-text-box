@@ -4,9 +4,6 @@
 
 <h1>✨ Earthbound Text Box ✨<br/> <span style="font-size: 15px">In HTML, and CSS!</span>
 
-<div id="link">
-<a  style="font-size:18px" href="https://theabsoluterealm.com/main/resourcesNtools/ebTBox">🌐 Project Page 🌐</a>
-</div>
 </div>
 
 Are you a fan of EarthBound and its charming retro aesthetics? Now you can bring that same nostalgic style to your website! Capture the essence of the game's iconic windows with colors that transport you back to the whimsical world of Ness and his friends. Transform your digital space with the beloved visuals of this classic Nintendo game!
