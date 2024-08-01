@@ -10,51 +10,27 @@
 </div>
 </div>
 
-Do you like the game Earthbound? Ever wanted to style your website in fashion like the game's windows? Well, here it is! Featuring the nostalgic colors that you remember!
+#### Do you like the game Earthbound? Ever wanted to style your website in fashion like the game's windows? Well, here it is! Featuring the nostalgic colors that you remember!
 
 <hr>
 
 <div style="width:250px; margin:0px auto; margin-bottom:20px;" align="center">
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Plain</p>
-<div style="
-    border-width: 10px;
-    border-style: solid;
-    padding: 15px;
-    border-image: url(assets/ebBoxPl.png) 27 stretch;"></div>
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Mint</p>
-<div style="
-    border-width: 10px;
-    border-style: solid;
-    padding: 15px;
-    border-image: url(assets/ebBoxM.png) 27 stretch;"></div>
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Strawberry</p>
-<div style="
-    border-width: 10px;
-    border-style: solid;
-    padding: 15px;
-    border-image: url(assets/ebBoxS.png) 27 stretch;"></div>
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Banana</p>
-<div style="
-    border-width: 10px;
-    border-style: solid;
-    padding: 15px;
-    border-image: url(assets/ebBoxB.png) 27 stretch;"></div>
-    
+
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Peanut</p>
-<div style="
-    border-width: 10px;
-    border-style: solid;
-    padding: 15px;
-    border-image: url(assets/ebBoxPe.png) 27 stretch;"></div>
+
 </div>
 
 <hr>
 
-### ⚡️ How to use
+## ⚡️ How to use
 
 #### CSS
 
@@ -83,7 +59,7 @@ Do you like the game Earthbound? Ever wanted to style your website in fashion li
 
 <hr>
 
-### 🐞 FAQ
+## 🐞 FAQ
 
 #### Why do I see the `background-color` peeking behind the border?
 
