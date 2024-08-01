@@ -1,3 +1,16 @@
+.mint,
+.strawberry,
+.banana,
+.peanut {
+  color: #ffefad;
+}
+
+.plain {
+  color: #fff;
+  border-image: url("assets/ebBoxPl.png") 27 stretch;
+  background-color: #101010;
+}
+
 .mint {
   border-image: url("assets/ebBoxM.png") 27 stretch;
   background-color: #290829;
@@ -6,23 +19,20 @@
   border-image: url("assets/ebBoxS.png") 27 stretch;
   background-color: #290829;
 }
-.peanut {
-  border-image: url("assets/ebBoxPe.png") 27 stretch;
-  background-color: #290829;
-}
+
 .banana {
   border-image: url("assets/ebBoxB.png") 27 stretch;
   background-color: #290829;
 }
-.plain {
-  border-image: url("assets/ebBoxPl.png") 27 stretch;
-  background-color: #101010;
+
+.peanut {
+  border-image: url("assets/ebBoxPe.png") 27 stretch;
+  background-color: #290829;
 }
 
 .ebBox {
   margin: 6px;
   padding: 15px;
-  color: #ffefad;
   border-width: 10px;
   border-style: solid;
   border-image-width: 20px;
