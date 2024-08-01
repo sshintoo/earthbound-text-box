@@ -10,6 +10,8 @@ Are you a fan of EarthBound and its charming retro aesthetics? Now you can bring
 
 <hr>
 
+This small project uses `border-image` to stretch the images to fit any size div you throw at it. Plus, it uses `Multi-Class` techniques to get everything looking just right.
+
 <div style="width:250px; margin:0px auto; margin-bottom:20px;" align="center">
 
 <p style="font-size: 20px; margin-bottom:0px; margin:5px">Plain</p>
